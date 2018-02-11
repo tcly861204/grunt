@@ -1,0 +1,17 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tcly861204/grunt.git",
+  "author": "tcly861204 <tcly861204@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-qunit": "^2.0.0",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
